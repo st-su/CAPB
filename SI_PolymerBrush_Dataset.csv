@@ -1,0 +1,101 @@
+﻿Sample,,SMILES,Contact angle (deg),Thickness (nm),Graft density (chains nm-2),Reference,DOI
+PBMA ,Poly(butyl methacrylate),C=C(C)C(=O)OCCCC,84.46,11.962,0.48,"J. Phys. Chem. C 2015, 119, 30, 17193 - 17201",10.1021/acs.jpcc.5b01649
+PHEMA ,Poly(hydroxyethyl methacrylate),C=C(C)C(=O)OCCO,49.28,16.822,0.78,"J. Phys. Chem. C 2015, 119, 30, 17193 - 17201",10.1021/acs.jpcc.5b01649
+PmOEGMA,Poly(ethylene glycol) methyl ether methacrylate,C=C(C)C(=O)OCCOCCOCCOCCOC,49.56,17.9,0.41,"J. Phys. Chem. C 2015, 119, 30, 17193 - 17201",10.1021/acs.jpcc.5b01649
+PMEA ,Poly(2-methoxyethyl acrylate),C=CC(=O)OCCOC,63.74,19.78895833,0.98,"J. Phys. Chem. C 2015, 119, 30, 17193 - 17201",10.1021/acs.jpcc.5b01649
+PAEMA ,Poly(2-Aminoethylmethacrylamide hydrochloride),C=C(C)C(=O)OCC[NH3+].[Cl-],59.92,9.2225,0.51,"J. Phys. Chem. C 2015, 119, 30, 17193 - 17201",10.1021/acs.jpcc.5b01649
+PCBMA ,Poly(3-[[2-(Methacryloyloxy)ethyl]dimethylammonio]propionate),C=C(C)C(=O)OCC[N+](C)(C)CCC(=O)[O-],16.86,19.38733333,0.59,"J. Phys. Chem. C 2015, 119, 30, 17193 - 17201",10.1021/acs.jpcc.5b01649
+PMPC ,Poly(2-Methacryloyloxyethyl phosphorylcholine),C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C,8.02,12.49,0.27,"J. Phys. Chem. C 2015, 119, 30, 17193 - 17201",10.1021/acs.jpcc.5b01649
+PMPS,Poly)methacryloxypropyl trimethoxysilane),C=C(C)C(=O)OCCCS(=O)(=O)[O-].[K+],9.88,18.93,0.46,"J. Phys. Chem. C 2015, 119, 30, 17193 - 17201",10.1021/acs.jpcc.5b01649
+PMPC,Poly(2-Methacryloyloxyethyl phosphorylcholine),C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C,12,5.6,0.13,"ACS Biomater. Sci. Eng. 2015, 1, 103 - 109",10.1021/ab500048w
+PHEMA ,Poly(hydroxyethyl methacrylate),C=C(C)C(=O)OCCO,45,8.1,0.48,"ACS Biomater. Sci. Eng. 2015, 1, 103 - 109",10.1021/ab500048w
+PMTAC ,Poly(2-(Methacryloyloxy)ethyl trimethylammonium chloride),C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-],31,5.4,0.36,"ACS Biomater. Sci. Eng. 2015, 1, 103 - 109",10.1021/ab500048w
+PMPS,Poly)methacryloxypropyl trimethoxysilane),C=C(C)C(=O)OCCCS(=O)(=O)[O-].[K+],13,11,0.27,"ACS Biomater. Sci. Eng. 2015, 1, 103 - 109",10.1021/ab500048w
+PMTAC,Poly(2-(Methacryloyloxy)ethyl trimethylammonium chloride),C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-],18.8,7.3,0.48,"Langmuir 2023, 39, 16522 - 16531.",10.1021/acs.langmuir.3c02472
+PMTAC,Poly(2-(Methacryloyloxy)ethyl trimethylammonium chloride),C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-],16.3,11.8,0.43,"Langmuir 2023, 39, 16522 - 16531.",10.1021/acs.langmuir.3c02472
+PMTAC,Poly(2-(Methacryloyloxy)ethyl trimethylammonium chloride),C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-],8.3,17.6,0.45,"Langmuir 2023, 39, 16522 - 16531.",10.1021/acs.langmuir.3c02472
+PMTAC,Poly(2-(Methacryloyloxy)ethyl trimethylammonium chloride),C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-],12.7,6.2,0.16,"Langmuir 2023, 39, 16522 - 16531.",10.1021/acs.langmuir.3c02472
+PMTAC,Poly(2-(Methacryloyloxy)ethyl trimethylammonium chloride),C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-],48.8,2.2,0.06,"Langmuir 2023, 39, 16522 - 16531.",10.1021/acs.langmuir.3c02472
+PMPC,Poly(2-Methacryloyloxyethyl phosphorylcholine),C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C,5,14.7,0.39,"Colloids and Surfaces B: Biointerfaces, 2020, 194, 111205",10.1016/j.colsurfb.2020.111205
+PBMA ,Poly(butyl methacrylate),C=C(C)C(=O)OCCCC,95,9,0.59,"Colloids and Surfaces B: Biointerfaces, 2020, 194, 111205",10.1016/j.colsurfb.2020.111205
+PMTAC,Poly(2-(Methacryloyloxy)ethyl trimethylammonium chloride),C=C(C)C(=O)OCC[N+](C)(C)C,28,7.2,0.35,"Colloids and Surfaces B: Biointerfaces, 2020, 194, 111205",10.1016/j.colsurfb.2020.111205
+PBMA ,Poly(butyl methacrylate),C=C(C)C(=O)OCCCC,81,2.6,0.74,"Sensors and Actuators B, 2015,  216, 428 - 433",10.1016/j.snb.2015.04.056
+PAEMA ,Poly(2-Aminoethylmethacrylamide hydrochloride),C=C(C)C(=O)OCC[NH3+].[Cl-],67,1.4,0.37,"Sensors and Actuators B, 2015,  216, 428 - 433",10.1016/j.snb.2015.04.056
+PMPC,Poly(2-Methacryloyloxyethyl phosphorylcholine),C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C,14,6.5,0.36,"Sensors and Actuators B, 2015,  216, 428 - 433",10.1016/j.snb.2015.04.056
+PAAm ,Polyacrylamide,C=CC(N)=O,58.8,26.1,0.18,"Applied Surface Science, 2008, 255, 5, 1, 1888 - 1893",10.1016/j.apsusc.2008.06.119
+PAAm ,Polyacrylamide,C=CC(N)=O,44,36.8,0.13,"Applied Surface Science, 2008, 255, 5, 1, 1888 - 1893",10.1016/j.apsusc.2008.06.119
+PNIPAAm,Poly(N-isopropylacrylamide),C=CC(=O)NC(C)C,61.3,2.5,0.46,"Colloids and Surfaces B: Biointerfaces, 2010, 76, 2, 468 - 474",10.1016/j.colsurfb.2009.12.006
+PNIPAAm,Poly(N-isopropylacrylamide),C=CC(=O)NC(C)C,58.5,4,0.46,"Colloids and Surfaces B: Biointerfaces, 2010, 76, 2, 468 - 474",10.1016/j.colsurfb.2009.12.006
+PNIPAAm,Poly(N-isopropylacrylamide),C=CC(=O)NC(C)C,57.2,6.1,0.46,"Colloids and Surfaces B: Biointerfaces, 2010, 76, 2, 468 - 474",10.1016/j.colsurfb.2009.12.006
+PNIPAAm,Poly(N-isopropylacrylamide),C=CC(=O)NC(C)C,57.3,9.6,0.46,"Colloids and Surfaces B: Biointerfaces, 2010, 76, 2, 468 - 474",10.1016/j.colsurfb.2009.12.006
+PNIPAAm,Poly(N-isopropylacrylamide),C=CC(=O)NC(C)C,57.9,13.4,0.46,"Colloids and Surfaces B: Biointerfaces, 2010, 76, 2, 468 - 474",10.1016/j.colsurfb.2009.12.006
+PNIPAAm,Poly(N-isopropylacrylamide),C=CC(=O)NC(C)C,58.2,38.1,0.46,"Colloids and Surfaces B: Biointerfaces, 2010, 76, 2, 468 - 474",10.1016/j.colsurfb.2009.12.006
+PHEA,Poly(2-hydroxyethyl acrylate),C=CC(=O)OCCO,61.9,28,0.37,"Materials 2020, 13, 16, 3559.",10.3390/ma13163559
+PtBA,Poly(tert-butyl acrylate),CC(C)(C)OC(=O)C=C,79,6,0.22,"Langmuir 2009, 25, 9, 5313 - 5321.",10.1021/la804060s
+PtBA,Poly(tert-butyl acrylate),CC(C)(C)OC(=O)C=C,84,33,0.44,"Langmuir 2009, 25, 9, 5313 - 5321.",10.1021/la804060s
+PBA,Poly(butyl acrylate),C=CC(=O)OCCCC,80.5,112.8,0.93,"Macromol. Chem. Phys. 2017, 218, 11, 1700106.",10.1002/macp.201700106
+PBA,Poly(butyl acrylate),C=CC(=O)OCCCC,80,97.4,0.88,"Macromol. Chem. Phys. 2017, 218, 11, 1700106.",10.1002/macp.201700106
+PBA,Poly(butyl acrylate),C=CC(=O)OCCCC,78.8,89.5,0.84,"Macromol. Chem. Phys. 2017, 218, 11, 1700106.",10.1002/macp.201700106
+PBA,Poly(butyl acrylate),C=CC(=O)OCCCC,77.8,75,0.9,"Macromol. Chem. Phys. 2017, 218, 11, 1700106.",10.1002/macp.201700106
+PBA,Poly(butyl acrylate),C=CC(=O)OCCCC,82.5,77.3,0.88,"Macromol. Chem. Phys. 2017, 218, 11, 1700106.",10.1002/macp.201700106
+PDMAEMA,Poly[2-(dimethylamino) ethyl methacrylate],C=C(C)C(=O)OCCN(C)C,56.8,32.1,0.52,"Macromol. Chem. Phys. 2017, 218, 11, 1700106.",10.1002/macp.201700106
+PDMAEMA,Poly[2-(dimethylamino) ethyl methacrylate],C=C(C)C(=O)OCCN(C)C,62.9,29.3,0.54,"Macromol. Chem. Phys. 2017, 218, 11, 1700106.",10.1002/macp.201700106
+PMTAC,Poly(2-(Methacryloyloxy)ethyl trimethylammonium chloride),C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-],47.9,41.3,0.27,"Langmuir 2019, 35, 8, 3031 - 3037.",10.1021/acs.langmuir.8b04187
+PASC8,"Polyacryloyloxyethyl-N,N-dimethyl-N-octylammonium bromide",C=C(C)C(=O)OCC[N+](C)(C)CCCCCCCC.[Br-],58.5,52.2,0.28,"Langmuir 2019, 35, 8, 3031 - 3037.",10.1021/acs.langmuir.8b04187
+PAGC8,"Poly-1,3-bis(N,N-dimethyl-N-octylammonium)-2-propyl acrylate dibromide",C=CC(=O)OC(C[N+](C)(C)CCCCCCCC)C[N+](C)(C)CCCCCCCC.[2Br-],63.8,39.6,0.37,"Langmuir 2019, 35, 8, 3031 - 3037.",10.1021/acs.langmuir.8b04187
+PMTAC,Poly(2-(Methacryloyloxy)ethyl trimethylammonium chloride),C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-],10,110,0.33,"Poly. J. 2015, 47, 811 - 818.",10.1038/pj.2015.77
+PMAES,Poly(sulfobetaine)s (poly(3-[dimethyl(2窶ｲ-methacryloyloxyethyl)ammonio]ethanesulfonate),C=C(C)C(=O)OCC[N+](C)(C)CCS(=O)(=O)[O-],14,173,0.19,"Poly. J. 2015, 47, 811 - 818.",10.1038/pj.2015.77
+PSBMA,Poly(sulfobetaine methacrylate),C=C(C)C(=O)OCC[N+](C)(C)CCCS(=O)(=O)[O-],15,105,0.26,"Poly. J. 2015, 47, 811 - 818.",10.1038/pj.2015.77
+PMABS,Poly(3-[dimethyl(2窶ｲ-methacryloyloxyethyl)ammonio]butanesulfonate),C=C(C)C(=O)OCC[N+](C)(C)CCCCS(=O)(=O)[O-],52,115,0.52,"Poly. J. 2015, 47, 811 - 818.",10.1038/pj.2015.77
+PMMA,"Poly(methyl methacrylate); PMPC, poly[2-(methacryloyloxy)ethyl phosphorylcholine]",C=C(C)C(=O)OC,75,104,0.44,"Poly. J. 2015, 47, 811 - 818.",10.1038/pj.2015.77
+PS,Polystyrene,C=Cc1ccccc1,89,180,0.28,"Poly. J. 2015, 47, 811 - 818.",10.1038/pj.2015.77
+PBA,Poly(butyl acrylate),C=CC(=O)OCCCC,91,49,0.3,"Poly. J. 2015, 47, 811 - 818.",10.1038/pj.2015.77
+PNIPAAm,Poly(N-isopropylacrylamide),C=CC(=O)NC(C)C,55,15,0.67,"Macromolecular Rapid Communications, 2006, 27, 14, 1121 - 1126.",10.1002/marc.200600223
+PNIPAAm,Poly(N-isopropylacrylamide),C=CC(=O)NC(C)C,54,16,0.67,"Macromolecular Rapid Communications, 2006, 27, 14, 1121 - 1126.",10.1002/marc.200600223
+PNIPAAm,Poly(N-isopropylacrylamide),C=CC(=O)NC(C)C,50,27,0.67,"Macromolecular Rapid Communications, 2006, 27, 14, 1121 - 1126.",10.1002/marc.200600223
+PVBTAC,Poly(vinylbenzyltrimethyl ammonium chloride),C=Cc1ccc(C[N+](C)(C)C)cc1.[Cl-],38.6,60.5,0.78,"J. Poly. Sci.  A: Poly. Chem. 2012, 50, 15, 2999 - 3007.",10.1002/pola.26087
+PVBTAC,Poly(vinylbenzyltrimethyl ammonium chloride),C=Cc1ccc(C[N+](C)(C)C)cc1.[Cl-],43.7,51.9,0.76,"Materials Science and Engineering: C, 2013, 33, 1, 111 - 120.",10.1016/j.msec.2012.08.015
+PAGC8,"Poly{1,3-bis(N,N-dimethyl-N-octylammonium)-2-propyl acrylate dibromide}",C=CC(=O)OC(C[N+](C)(C)CCCCCCCC)C[N+](C)(C)CCCCCCCC.[2Br-],61.8,41,0.41,"Biomacromolecules 2020, 21, 12, 5213 - 5221.",10.1021/acs.biomac.0c01295
+PSBMA,Poly(sulfobetaine methacrylate),C=C(C)C(=O)OCC[N+](C)(C)CCCS(=O)(=O)[O-],34.8,30.4,0.36,"Biomacromolecules 2020, 21, 12, 5213 - 5221.",10.1021/acs.biomac.0c01295
+PCMB,Poly(carboxymethyl betaine),C=C(C)C(=O)OCC[N+](C)(C)CC(=O)[O-],12.5,8.1,0.21,"Colloids and Surfaces B: Biointerfaces, 2016, 144, 180 - 187.",10.1016/j.colsurfb.2016.04.005
+PCMB,Poly(carboxymethyl betaine),C=C(C)C(=O)OCC[N+](C)(C)CC(=O)[O-],14,3.7,0.54,"Colloids and Surfaces B: Biointerfaces, 2012, 100, 126 - 132.",10.1016/j.colsurfb.2012.05.008
+PCMB,Poly(carboxymethyl betaine),C=C(C)C(=O)OCC[N+](C)(C)CC(=O)[O-],14,11.3,0.54,"Colloids and Surfaces B: Biointerfaces, 2012, 100, 126 - 132.",10.1016/j.colsurfb.2012.05.008
+PCMB,Poly(carboxymethyl betaine),C=C(C)C(=O)OCC[N+](C)(C)CC(=O)[O-],14.8,22.9,0.45,"Colloids and Surfaces B: Biointerfaces, 2012, 100, 126 - 132.",10.1016/j.colsurfb.2012.05.008
+PHPenAA,Poly(N-(5-hydroxypentyl)acrylamide),C=CC(=O)NCCCCCO,52,26.6,0.56,"Biomacromolecules 2014, 15, 8, 2982 - 2991.",10.1021/bm500598a
+PHPAA,Poly(N-(3-hydroxypropyl)acrylamide),C=CC(=O)NCCCO,18,29.2,0.64,"Biomacromolecules 2014, 15, 8, 2982 - 2991.",10.1021/bm500598a
+PHMAA,Poly(N-hydroxymethyl acrylamide),C=CC(=O)NCO,14,31.7,0.71,"Biomacromolecules 2014, 15, 8, 2982 - 2991.",10.1021/bm500598a
+PDMDOMA,"Poly{[(2,2-dimethyl-1,3-dioxolane)methyl]acrylamide}",C=CC(=O)NCC1COC(C)(C)O1,58,35,0.47,"Biomacromolecules 2010, 11, 1, 284 - 293.",10.1021/bm901159d
+PDHPA,"Poly-N-[(2,3-dihydroxypropyl)acrylamide]",C=CC(=O)NCC(O)CO,15,35,0.47,"Biomacromolecules 2010, 11, 1, 284 - 293.",10.1021/bm901159d
+PNVP,Poly(N-vinylpyrrolidone),C=CN1CCCC1=O,47,1.66,0.26,"Langmuir 2009, 25, 5, 2900 - 2906.",10.1021/la8037523
+PNVP,Poly(N-vinylpyrrolidone),C=CN1CCCC1=O,36,5.62,0.26,"Langmuir 2009, 25, 5, 2900 - 2906.",10.1021/la8037523
+PNVP,Poly(N-vinylpyrrolidone),C=CN1CCCC1=O,30,9.9,0.26,"Langmuir 2009, 25, 5, 2900 - 2906.",10.1021/la8037523
+PNVP,Poly(N-vinylpyrrolidone),C=CN1CCCC1=O,24,13.45,0.26,"Langmuir 2009, 25, 5, 2900 - 2906.",10.1021/la8037523
+PNVP,Poly(N-vinylpyrrolidone),C=CN1CCCC1=O,24,15.06,0.26,"Langmuir 2009, 25, 5, 2900 - 2906.",10.1021/la8037523
+PNVP,Poly(N-vinylpyrrolidone),C=CN1CCCC1=O,24,33.56,0.26,"Langmuir 2009, 25, 5, 2900 - 2906.",10.1021/la8037523
+PMMA,Poly(methyl methacrylate),C=C(C)C(=O)OC,72,61.7,0.47,"ACS Macro Lett. 2012, 1, 9, 1124 - 1127.",10.1021/mz3002148
+PMBL,Poly(ﾎｱ-methylene-ﾎｳ-butyrolactone),C=C1CCOC1=O,59,66.4,0.61,"ACS Macro Lett. 2012, 1, 9, 1124 - 1127.",10.1021/mz3002148
+PDMAAm,"Poly(N,N-Dimethylacrylamide)",C=CC(=O)N(C)C,36,6.2,0.24,"ACS Appl. Mater. Interfaces 2020, 12, 49, 55243 - 55254.",10.1021/acsami.0c15221
+PDMAAm,"Poly(N,N-Dimethylacrylamide)",C=CC(=O)N(C)C,34,8.8,0.24,"ACS Appl. Mater. Interfaces 2020, 12, 49, 55243 - 55254.",10.1021/acsami.0c15221
+PDMAAm,"Poly(N,N-Dimethylacrylamide)",C=CC(=O)N(C)C,32,10.3,0.2,"ACS Appl. Mater. Interfaces 2020, 12, 49, 55243 - 55254.",10.1021/acsami.0c15221
+PDMAAm,"Poly(N,N-Dimethylacrylamide)",C=CC(=O)N(C)C,30,11.1,0.2,"ACS Appl. Mater. Interfaces 2020, 12, 49, 55243 - 55254.",10.1021/acsami.0c15221
+PDMAAm,"Poly(N,N-Dimethylacrylamide)",C=CC(=O)N(C)C,26,12.1,0.2,"ACS Appl. Mater. Interfaces 2020, 12, 49, 55243 - 55254.",10.1021/acsami.0c15221
+PAHMA,Poly(N-(6-aminohexyl)methacrylamide hydrochloride),C=C(C)C(=O)OCCCCCCN=[N+]=[N-],93.5,29.1,0.59,"J. Polym. Sci.Part A: Polym. Chem.2015,53, 1696 - 1706.",10.1002/pola.27613
+PAHMA,Poly(N-(6-aminohexyl)methacrylamide hydrochloride),C=C(C)C(=O)OCCCCCCN=[N+]=[N-],92.4,27.1,0.59,"J. Polym. Sci.Part A: Polym. Chem.2015,53, 1696 - 1706.",10.1002/pola.27613
+PAHMA,Poly(N-(6-aminohexyl)methacrylamide hydrochloride),C=C(C)C(=O)OCCCCCCN=[N+]=[N-],90.5,24.8,0.59,"J. Polym. Sci.Part A: Polym. Chem.2015,53, 1696 - 1706.",10.1002/pola.27613
+PAHMA,Poly(N-(6-aminohexyl)methacrylamide hydrochloride),C=C(C)C(=O)OCCCCCCN=[N+]=[N-],88.9,16.1,0.59,"J. Polym. Sci.Part A: Polym. Chem.2015,53, 1696 - 1706.",10.1002/pola.27613
+PAHMA,Poly(N-(6-aminohexyl)methacrylamide hydrochloride),C=C(C)C(=O)OCCCCCCN=[N+]=[N-],78.4,5.6,0.59,"J. Polym. Sci.Part A: Polym. Chem.2015,53, 1696 - 1706.",10.1002/pola.27613
+PHEMA ,Poly(hydroxyethyl methacrylate),C=C(C)C(=O)OCCO,46,19,0.6,"Chemistry Letters, 2010, 39, 2, 142 - 143.",10.1246/cl.2010.142
+PHEMA ,Poly(hydroxyethyl methacrylate),C=C(C)C(=O)OCCO,45,2,0.07,"Chemistry Letters, 2010, 39, 2, 142 - 143.",10.1246/cl.2010.142
+PHEA,Poly(Hydroxyethyl Acrylate),C=CC(=O)OCCO,33,5,0.8,"Chemistry Letters, 2010, 39, 2, 142 - 143.",10.1246/cl.2010.142
+PHEA,Poly(Hydroxyethyl Acrylate),C=CC(=O)OCCO,31,15,0.7,"Chemistry Letters, 2010, 39, 2, 142 - 143.",10.1246/cl.2010.142
+PHEA,Poly(Hydroxyethyl Acrylate),C=CC(=O)OCCO,32,2,0.09,"Chemistry Letters, 2010, 39, 2, 142 - 143.",10.1246/cl.2010.142
+PPEGMA,Poly[poly(ethylene glycol) methyl ether methacrylate],C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC,41,4,0.3,"Chemistry Letters, 2010, 39, 2, 142 - 143.",10.1246/cl.2010.142
+PPEGMA,Poly[poly(ethylene glycol) methyl ether methacrylate],C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC,42,18,0.3,"Chemistry Letters, 2010, 39, 2, 142 - 143.",10.1246/cl.2010.142
+PPEGMA,Poly[poly(ethylene glycol) methyl ether methacrylate],C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC,42,1,0.02,"Chemistry Letters, 2010, 39, 2, 142 - 143.",10.1246/cl.2010.142
+PEMA,Poly(Ethylene methyl acrylate copolymers),C=C(C)C(=O)OCC,88,75,0.53,"Langmuir 2014, 30, 42, 12532 - 12540.",10.1021/la501802b
+PTFEMA,Poly(trifluoroethyl methacrylate),C=C(C)C(=O)OCC(F)(F)F,98,80,0.57,"Langmuir 2014, 30, 42, 12532 - 12540.",10.1021/la501802b
+PHFMA,Poly(hexafluorobutyl methacrylate),CC(=C)C(=O)OCC(F)(F)C(F)(F)C(F)(F)F,110,78,0.26,"Langmuir 2014, 30, 42, 12532 - 12540.",10.1021/la501802b
+PFOEMA,Poly(2-perfluorooctylethyl methacrylate),CC(=C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,121,80,0.07,"Langmuir 2014, 30, 42, 12532 - 12540.",10.1021/la501802b
+PFOEA,Poly{2-(perfluorooctyl)ethyl acrylate} ,C(=C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,107,4,0.15,"Polymer J. 2008, 40, 854 - 860.",10.1295/polymj.PJ2008107
+PFOEA,Poly{2-(perfluorooctyl)ethyl acrylate} ,C(=C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,117,12,0.15,"Polymer J. 2008, 40, 854 - 860.",10.1295/polymj.PJ2008107
+PFOEA,Poly{2-(perfluorooctyl)ethyl acrylate} ,C(=C)C(=O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,119,43,0.15,"Polymer J. 2008, 40, 854 - 860.",10.1295/polymj.PJ2008107
